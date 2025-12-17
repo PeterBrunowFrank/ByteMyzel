@@ -1,0 +1,40 @@
+ΔΠΞ DeltaPIXi: Emergent Intelligence Simulation
+A Ruby framework demonstrating how intelligent behavior emerges from simple local interactions.
+
+Core Philosophy:
+ΔΠΞ (Delta-Pi-Xi) represents three principles:
+
+Δ (Delta): Perception of difference ("something is wrong/possible")
+
+Π (Pi): Fair selection algorithm (proportional fairness)
+
+Ξ (Xi): Space of possibilities (collective creativity)
+
+What It Does:
+Simulates agents ("Emergencies") in a 3D "LifeSpace"
+
+Each agent has 16-bit perception + lookup-table "brain"
+
+No central control – intelligence emerges locally
+
+Agents coordinate, strategize, and adapt through experience
+
+Scientific Value:
+Provides mathematically verifiable emergence
+
+Falsifiable hypotheses about collective intelligence
+
+Scalable from small experiments to massive simulations
+
+Perfect For:
+Researchers studying emergent behavior
+
+Educators teaching complex systems
+
+Developers exploring decentralized AI
+
+"Watching intelligence being born, not programmed."
+
+Lizenz: GNU GPL v3 (Open Source, Copyleft)
+
+GitHub Topics: emergence, complex-systems, artificial-life, multi-agent-systems, ruby, simulation, collective-intelligence
