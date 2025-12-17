@@ -1,2 +1,1 @@
-# ByteMyzel
-ΔΠΞ DeltaPIXi: Emergent Intelligence Simulation A Ruby framework demonstrating how intelligent behavior emerges from simple local interactions.
+# This project is licensed under the GPL-3.0 – see LICENSE for details.
